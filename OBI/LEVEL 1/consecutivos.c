@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int n, i, d, x = 0, counter1 = 1, counter2 = 0;
-    
+    int n, i, d, x, counter1, counter2;
+    x = counter2 = 0;
+    counter1 = 1;
     scanf("%d", &n);
     for(i = 0; i < n; i++){
         scanf("%d", &d);
