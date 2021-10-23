@@ -1,3 +1,5 @@
+//source problem: https://olimpiada.ic.unicamp.br/pratique/p1/2012/f1/iguais/
+
 #include <stdio.h>
 
 int main(){
