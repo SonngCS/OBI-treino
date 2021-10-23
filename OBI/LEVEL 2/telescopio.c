@@ -1,3 +1,5 @@
+//Source problem: https://olimpiada.ic.unicamp.br/pratique/p2/2010/f2/telescopio/
+
 #include <stdio.h>
 
 int main(){
