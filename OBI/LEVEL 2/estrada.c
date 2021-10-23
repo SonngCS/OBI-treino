@@ -1,3 +1,5 @@
+//source problem: https://olimpiada.ic.unicamp.br/pratique/p2/2008/f2/auto/
+
 #include <stdio.h>
 #include <string.h>
 
