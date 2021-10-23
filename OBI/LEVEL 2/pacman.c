@@ -1,3 +1,5 @@
+//Source problem: https://olimpiada.ic.unicamp.br/pratique/p2/2014/f1/pacman/
+
 #include <stdio.h>
 
 int main (void){
