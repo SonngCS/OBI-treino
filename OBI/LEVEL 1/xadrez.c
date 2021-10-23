@@ -1,3 +1,5 @@
+//source problem: https://olimpiada.ic.unicamp.br/pratique/p1/2018/f1/xadrez/
+
 #include <stdio.h>
 
 int main(void){
