@@ -1,3 +1,5 @@
+//Source problem: https://olimpiada.ic.unicamp.br/pratique/p1/2010/f1/pedagio/
+
 #include <stdio.h>
 
 int main(void){
