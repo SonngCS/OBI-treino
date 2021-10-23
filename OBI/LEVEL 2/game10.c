@@ -1,3 +1,5 @@
+//Source problem: https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/game10/
+
 #include <stdio.h>
 
 int main(void){
