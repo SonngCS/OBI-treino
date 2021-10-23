@@ -1,3 +1,5 @@
+//Source problem: https://olimpiada.ic.unicamp.br/pratique/p1/2010/f2/marciano/
+
 #include <stdio.h>
 #include <math.h>
 
